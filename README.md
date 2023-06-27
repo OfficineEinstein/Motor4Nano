@@ -3,7 +3,7 @@ Motor shield for arduino nano
 
 ![This is an image](https://github.com/OfficineEinstein/Motor4Nano/blob/main/Motor_shield_4Nano.png)
 
-Video testing della shield con una maker nano
+Video testing of the shield with a nano maker
 
 [<img src="https://i.ytimg.com/vi/AZq0YATArw0/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=AZq0YATArw0 "videoprova shield")
 
